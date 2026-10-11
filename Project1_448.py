@@ -33,9 +33,3 @@ df = df.reset_index(drop=True)
 print(df.shape)
 
 #Now we have cleaned the dataset by removing rows with missing values
-
-
-
-
-
-

@@ -312,5 +312,4 @@ print(
         labels=[0, 1, 2],
         target_names=encoder.classes_,
         zero_division=0
-    )
-)
+    ))
